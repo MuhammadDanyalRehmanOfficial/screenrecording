@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "76617996146",
+    "project_id": "soilephone-296d2",
+    "storage_bucket": "soilephone-296d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76617996146:android:207511c66632dfdef06feb",
+        "android_client_info": {
+          "package_name": "com.example.soylephone_client"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA75F_eR-3QxiC85y6MVIvvRJT2dbdZLzs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76617996146:android:6a68b9d2b02d0ee7f06feb",
+        "android_client_info": {
+          "package_name": "com.example.soylephone_user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA75F_eR-3QxiC85y6MVIvvRJT2dbdZLzs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
